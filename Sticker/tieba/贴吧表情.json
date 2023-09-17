@@ -1,0 +1,379 @@
+{
+    "StickerTitle": "贴吧表情",
+    "StickerDescribe": "贴吧的表情",
+    "StickerAuthor": "网络收集",
+    "StickerData": [
+        {
+            "StickerName": "给你来两拳",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/0.webp"
+        },
+        {
+            "StickerName": "喜欢",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/1.webp"
+        },
+        {
+            "StickerName": "开怀大笑",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/2.webp"
+        },
+        {
+            "StickerName": "感叹",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/3.webp"
+        },
+        {
+            "StickerName": "张嘴笑",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/4.webp"
+        },
+        {
+            "StickerName": "乖巧",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/5.webp"
+        },
+        {
+            "StickerName": "吐舌",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/6.webp"
+        },
+        {
+            "StickerName": "滑稽",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/7.webp"
+        },
+        {
+            "StickerName": "捂嘴",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/8.webp"
+        },
+        {
+            "StickerName": "坏笑",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/9.webp"
+        },
+        {
+            "StickerName": "委屈",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/10.webp"
+        },
+        {
+            "StickerName": "流汗",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/11.webp"
+        },
+        {
+            "StickerName": "愤怒",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/12.webp"
+        },
+        {
+            "StickerName": "无语啊",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/13.webp"
+        },
+        {
+            "StickerName": "哭",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/14.webp"
+        },
+        {
+            "StickerName": "喷水",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/15.webp"
+        },
+        {
+            "StickerName": "你真棒",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/16.webp"
+        },
+        {
+            "StickerName": "吓哭",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/17.webp"
+        },
+        {
+            "StickerName": "脸红",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/18.webp"
+        },
+        {
+            "StickerName": "酷",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/19.webp"
+        },
+        {
+            "StickerName": "垃圾",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/20.webp"
+        },
+        {
+            "StickerName": "啊？",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/21.webp"
+        },
+        {
+            "StickerName": "汗流不止",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/22.webp"
+        },
+        {
+            "StickerName": "疑问",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/23.webp"
+        },
+        {
+            "StickerName": "麦克风交流",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/24.webp"
+        },
+        {
+            "StickerName": "坏了",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/25.webp"
+        },
+        {
+            "StickerName": "唱歌",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/26.webp"
+        },
+        {
+            "StickerName": "哇喔",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/27.webp"
+        },
+        {
+            "StickerName": "不好意思",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/28.webp"
+        },
+        {
+            "StickerName": "睡觉",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/29.webp"
+        },
+        {
+            "StickerName": "笑哭",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/30.webp"
+        },
+        {
+            "StickerName": "吐了",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/31.webp"
+        },
+        {
+            "StickerName": "抠鼻",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/32.webp"
+        },
+        {
+            "StickerName": "真相只有一个",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/33.webp"
+        },
+        {
+            "StickerName": "刚睡醒",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/34.webp"
+        },
+        {
+            "StickerName": "尴尬",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/35.webp"
+        },
+        {
+            "StickerName": "迷迷糊糊",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/36.webp"
+        },
+        {
+            "StickerName": "黑客",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/37.webp"
+        },
+        {
+            "StickerName": "钱",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/38.webp"
+        },
+        {
+            "StickerName": "呦",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/39.webp"
+        },
+        {
+            "StickerName": "这样啊",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/40.webp"
+        },
+        {
+            "StickerName": "呵",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/41.webp"
+        },
+        {
+            "StickerName": "气头上",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/42.webp"
+        },
+        {
+            "StickerName": "黑脸笑",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/43.webp"
+        },
+        {
+            "StickerName": "交给我一定会搞砸的",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/44.webp"
+        },
+        {
+            "StickerName": "好耶",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/45.webp"
+        },
+        {
+            "StickerName": "不不不",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/46.webp"
+        },
+        {
+            "StickerName": "吃瓜",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/47.webp"
+        },
+        {
+            "StickerName": "恐怖的看着",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/48.webp"
+        },
+        {
+            "StickerName": "捂脸看",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/49.webp"
+        },
+        {
+            "StickerName": "无所谓",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/50.webp"
+        },
+        {
+            "StickerName": "偷看",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/51.webp"
+        },
+        {
+            "StickerName": "小狗无精打采",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/52.webp"
+        },
+        {
+            "StickerName": "小狗观看",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/53.webp"
+        },
+        {
+            "StickerName": "喝哭了",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/54.webp"
+        },
+        {
+            "StickerName": "操作很迷",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/55.webp"
+        },
+        {
+            "StickerName": "憋不住了",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/56.webp"
+        },
+        {
+            "StickerName": "炸你鸡鸡",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/57.webp"
+        },
+        {
+            "StickerName": "脸黑大红唇",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/58.webp"
+        },
+        {
+            "StickerName": "心碎",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/59.webp"
+        },
+        {
+            "StickerName": "爱心",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/60.webp"
+        },
+        {
+            "StickerName": "玫瑰花",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/61.webp"
+        },
+        {
+            "StickerName": "礼物",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/62.webp"
+        },
+        {
+            "StickerName": "太阳",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/63.webp"
+        },
+        {
+            "StickerName": "彩虹",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/64.webp"
+        },
+        {
+            "StickerName": "月亮",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/65.webp"
+        },
+        {
+            "StickerName": "金币",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/66.webp"
+        },
+        {
+            "StickerName": "蛋糕",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/67.webp"
+        },
+        {
+            "StickerName": "咖啡",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/68.webp"
+        },
+        {
+            "StickerName": "大拇指",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/69.webp"
+        },
+        {
+            "StickerName": "✌",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/70.webp"
+        },
+        {
+            "StickerName": "拿捏",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/71.webp"
+        },
+        {
+            "StickerName": "72",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/72.webp"
+        },
+        {
+            "StickerName": "沙发",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/73.webp"
+        },
+        {
+            "StickerName": "纸巾",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/74.webp"
+        },
+        {
+            "StickerName": "屎",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/75.webp"
+        },
+        {
+            "StickerName": "香蕉",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/76.webp"
+        },
+        {
+            "StickerName": "💊",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/77.webp"
+        },
+        {
+            "StickerName": "红领巾",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/78.webp"
+        },
+        {
+            "StickerName": "三条杠",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/79.webp"
+        },
+        {
+            "StickerName": "蜡烛",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/80.webp"
+        },
+        {
+            "StickerName": "音乐",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/81.webp"
+        },
+        {
+            "StickerName": "灯泡",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/82.webp"
+        },
+        {
+            "StickerName": "滑稽流汗",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/83.webp"
+        },
+        {
+            "StickerName": "滑稽",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/84.webp"
+        },
+        {
+            "StickerName": "坏事滑稽",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/85.webp"
+        },
+        {
+            "StickerName": "内裤滑稽",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/86.webp"
+        },
+        {
+            "StickerName": "墨镜滑稽",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/87.webp"
+        },
+        {
+            "StickerName": "鸡眼",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/88.webp"
+        },
+        {
+            "StickerName": "不错呦",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/89.webp"
+        },
+        {
+            "StickerName": "圣诞滑稽",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/90.webp"
+        },
+        {
+            "StickerName": "递苹果",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/91.webp"
+        },
+        {
+            "StickerName": "可怜",
+            "StickerURL": "https://cdn-us.imgs.moe/Sticker/tieba/92.webp"
+        }
+    ]
+}
