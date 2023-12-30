@@ -1,1 +1,62 @@
-
+[
+    {
+        "ConfigName": "163接口",
+        "description": "163接口免登",
+        "url": "https://www.163.com/",
+        "icon": "https://www.163.com/favicon.ico",
+        "key": "test",
+        "author": {
+            "name": "作者名称",
+            "avatar": "作者头像",
+            "email": "作者邮箱",
+            "website": "作者网站"
+        },
+        "data": {
+            "custom_Base64Upload": false,
+            "custom_Base64UploadRemovePrefix": false,
+            "custom_BodyStringify": false,
+            "custom_BodyUpload": false,
+            "custom_ReturnAppend": "",
+            "custom_ReturnPrefix": "",
+            "open_json_button": true,
+            "options_Body": "",
+            "options_Headers": "",
+            "options_apihost": "https://community.codewave.163.com/gateway/lowcode/api/v1/app/upload",
+            "options_exe": "UserDiy",
+            "options_parameter": "file",
+            "options_return_success": "result",
+            "requestMethod": "POST"
+        },
+        "index": 100
+    },
+    {
+        "ConfigName": "盘络图床",
+        "description": "盘络图床游客上传",
+        "url": "https://www.pnglog.com/",
+        "icon": "https://www.pnglog.com/favicon.ico",
+        "key": "test",
+        "author": {
+            "name": "youhei",
+            "avatar": "作者头像",
+            "email": "作者邮箱",
+            "website": "作者网站"
+        },
+        "data": {
+            "custom_Base64Upload": false,
+            "custom_Base64UploadRemovePrefix": false,
+            "custom_BodyStringify": false,
+            "custom_BodyUpload": false,
+            "custom_ReturnAppend": "",
+            "custom_ReturnPrefix": "",
+            "open_json_button": false,
+            "options_Body": "",
+            "options_Headers": "{\"Accept\":\"application/json\"}",
+            "options_apihost": "https://pnglog.com/api/v1/upload",
+            "options_exe": "UserDiy",
+            "options_parameter": "file",
+            "options_return_success": "data.links.url",
+            "requestMethod": "POST"
+        },
+        "index": 101
+    }
+]
